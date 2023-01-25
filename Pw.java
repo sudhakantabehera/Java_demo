@@ -4,4 +4,8 @@ class pw
    {
       ///cod
    }
+public void ml()
+   {
+      ///cod
+   }
 }
